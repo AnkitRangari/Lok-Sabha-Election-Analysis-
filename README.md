@@ -36,3 +36,13 @@ The objective is to examine the voter turnout ratio across different constituenc
 
 - **State-wise Voter Turnout Patterns:**
    - State-wise analysis reveals varied patterns of engagement. Highest votern turn out%  in 2014 is 87.8% for Nagaland  which adversly increase to 98% for dadar and nagar haveli in 2019.
+
+### 4) Political Parties Information Analysis
+
+The objective of this dashboard is to provide an overview of political parties, number of contested candidates, list of political and national Parties and voter bases. By understanding these factors, we can assess their influence and electoral strategies.
+
+- **Distinct Parties :** “466” representing the total number of distinct political parties for 2014 and for 2019 it is "675".
+
+ - **% of Votes Secured Over Total Valid Votes by Party Name:** The horizontal bar graph shows the percentage of votes secured by different parties.The Indian National Congress (INC) leads with the highest percentage at 31% for 2014 and 38% for 2019 
+
+- **Number of Contested Candidates:** The vertical bar graph provides insights into the number of candidates contesting elections.In which BJP leading with maximum candidates followed by congress for both year 
