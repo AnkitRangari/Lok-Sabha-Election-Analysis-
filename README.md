@@ -15,5 +15,24 @@ The dashboard reveals several key insights about women's participation in the 20
 
 - **High Participation Rates:** Women made up 48% of the total voters and 48.32% of the total electors in 2014 and 49% of the total voters and 48.76% of the total electors in 2019 indicating strong female engagement in the electoral process.
 - **Leading States:** Uttar Pradesh stands out with the highest number of women electors 63 million and women voters 36 million in 2014 , in 2019 leading with 67 million women electors and 40 million women voters
-- **Women Candidates:** Uttar Pradesh also leads in terms of women candidates, with 126 women running for office, followed by Maharashtra (69), and in 2019 Uttar Pradesh is still leading followed by Maharashtra
+- **Women Candidates:** Uttar Pradesh also leads in terms of women candidates, with 126 women running for office, followed by Maharashtra 69, and in 2019 Uttar Pradesh is still leading followed by Maharashtra
 - **Voter Turnout:** women voter turn out ratio is around 71% for both the year.  The top states with the highest women voter turnout ratios are Lakshadweep (88.4%), In contrast, Jammu & Kashmir has the lowest women voter turnout at 48%.
+
+### 3) Voter Turn out ratio 
+
+The objective is to examine the voter turnout ratio across different constituencies, political parties, and states for year 2014 and 2019. By understanding these patterns, we aim to provide valuable insights into voting behavior and identify areas for potential improvement.
+
+ - **Top Constituencies with High Voter Turnout Ratio:**
+   - The top five constituencies demonstrate impressive engagement levels, with voter turnout ratios exceeding 88% and by 99% in 2019 
+
+ - **Lowest Constituencies with Low Voter Turnout Ratio:**
+   - Conversely, the lowest five constituencies exhibit significantly lower engagement, all below 45%. in 2014 and 2019 as well 
+   - These areas require targeted interventions to enhance voter participation and awareness.
+
+-  **Political Parties' Voter Turnout Trends:**
+
+   - highest votern turn out%  in 2014 is 88% which adversly increase to 99% in 2019.
+    - On the contrast the lowerst % were 31% and 21%  in 2014 and 2019 representative for the same partie of jammu and Kashmir.
+
+- **State-wise Voter Turnout Patterns:**
+   - State-wise analysis reveals varied patterns of engagement. Highest votern turn out%  in 2014 is 87.8% for Nagaland  which adversly increase to 98% for dadar and nagar haveli in 2019.
