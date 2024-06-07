@@ -98,3 +98,32 @@ The objective of this dashboard is to provide an overview of political parties, 
 
 ### 5) Comperative Study 
 ![img](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/blob/main/Dashboard%20Image/6.png)
+
+- **Seats Won**: 
+  - BJP won a significantly higher number of seats (282) compared to Congress (44) in 2014.
+
+  - and for year 2019 still BJP is leading with 303 seats and congress with 52 
+
+- **Total Margin**: 
+  - BJP had a margin of 52 million votes, compare to Congress which had a margin of 3 million votes
+  - but in 2019 BJP margine increase to 70 million and congress to just 6 million
+
+#### Voter Turnout Ratio by Parties:
+in which other parties are leading in 2014 and in 2019 congress take a lead  
+- **Bharatiya Janata Party**: (62.70%), for 2019: (68.79%)
+- **Indian National Congress**: (71.08%),for 2019: (76.32%)
+- **Other Party**: (72.43%),  for 2019: (71.70%)
+
+#### Detailed State-wise Voting Information:
+- The table shows the state-wise breakdown of the seat won and the total votes for both BJP and Congress, highlighting their performance in various states.
+
+#### Political Parties Seat Count Map:
+- The map illustrates the geographic distribution of seats won by BJP, Congress, and other parties across India.
+
+#### Key Insights:
+1. **BJP Dominance**: In 2014, BJP was the dominant party, securing 282 seats, which is significantly higher than the 44 seats won by Congress.
+2. **Voter Turnout**: The voter turnout ratio shows that other parties had the highest voter turnout (72.43%), followed by Congress (71.08%) and BJP (62.70%).
+3. **Electoral Support**: BJP had the majority of electoral support with 54.4% of the electors and received 50.9% of the total votes cast.
+4. **State-wise Performance**: BJP had a strong performance across multiple states, while Congress had varying levels of support in different states.
+
+These insights indicate that in the 2014 Lok Sabha elections, BJP had a clear advantage in terms of seats won, electoral support, and overall votes compared to Congress. 
