@@ -1,4 +1,4 @@
-# Lokshabha Election Data Analysis🔔 ![ElectionResultsLoadingElection2020GIF](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/assets/164244833/31a83e3f-f8f0-47fe-b77b-3b211b7a0b54)
+# Loksabha Election Data Analysis🔔 ![ElectionResultsLoadingElection2020GIF](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/assets/164244833/31a83e3f-f8f0-47fe-b77b-3b211b7a0b54)
 
 ## 🔭Objective: 
 In the dynamic landscape of trending election news, I am here to bring you insightful N detail analysis of India’s Lok Sabha elections for the years 2014 and 2019. My mission include extract data from Election commission website , data transformation and understanding  various aspects like voter demographics, assessing party performance, analyzing women’s representation, investigating voter turnout, and conducting a comparative study between BJP and INC. Through effective visualization, this provide insights into electoral trends and shifts over the two election cycles.
