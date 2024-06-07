@@ -23,6 +23,14 @@ mission is to decipher the intricate brushstrokes that shape the political portr
 
 
 ## ℹ️ Data Source : https://www.eci.gov.in/statistical-reports
+   For Year 2014-
+
+     https://old.eci.gov.in/files/category/97-general-election-2014/
+  
+   For Year 2019-
+ 
+    https://old.eci.gov.in/files/category/1551-general-election-2019-including-vellore-pc/
+    
 
 ## 🔧Tools Used: 
 - PowerBI, Excel 
