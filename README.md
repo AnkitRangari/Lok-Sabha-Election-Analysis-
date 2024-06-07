@@ -1,5 +1,32 @@
+# Lokshabha Election Data Analysis🔔 ![ElectionResultsLoadingElection2020GIF](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/assets/164244833/31a83e3f-f8f0-47fe-b77b-3b211b7a0b54)
 
-## Dashboard Highlights 
+## 🔭Objective: 
+In the dynamic landscape of trending election news, I am here to bring you insightful N detail analysis of India’s Lok Sabha elections for the years 2014 and 2019. My mission include extract data from Election commission website , data transformation and understanding  various aspects like voter demographics, assessing party performance, analyzing women’s representation, investigating voter turnout, and conducting a comparative study between BJP and INC. Through effective visualization, this provide insights into electoral trends and shifts over the two election cycles.
+
+## 📇Problem Statement: 
+In the ever-evolving landscape of Indian politics, understanding electoral dynamics is crucial. As the curtain rises on the stage of democracy, my 
+mission is to decipher the intricate brushstrokes that shape the political portrait. Within this dataset lie stories waiting to be told—the whispers of voters, and the quiet determination of candidates. My aim to unravel these narratives through depth analysis. 
+
+## 🎯Key Finding:
+- Voters Information 
+- Women Representation 
+- Voter Turn Out Ratio Analysis 
+- Political Parties Information 
+- Comparative study of BJP N Congress 
+
+## 📋Followed Process:
+- Extracting data from election comission website 
+- Data Transformation and data cleaning 
+- Data analyzing 
+- Data modeling 
+- Dashboarding 
+
+## ℹ️ Data Source : https://www.eci.gov.in/statistical-reports
+
+## 🔧Tools Used: 
+- PowerBI, Excel 
+
+## ✨Dashboard Highlights 
 
 ### 1) Voters Information 
 
