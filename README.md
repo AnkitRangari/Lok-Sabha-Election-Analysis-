@@ -7,6 +7,13 @@ In the dynamic landscape of trending election news, I am here to bring you insig
 In the ever-evolving landscape of Indian politics, understanding electoral dynamics is crucial. As the curtain rises on the stage of democracy, my 
 mission is to decipher the intricate brushstrokes that shape the political portrait. Within this dataset lie stories waiting to be told—the whispers of voters, and the quiet determination of candidates. My aim to unravel these narratives through depth analysis. 
 
+## 📋Followed Process:
+- Extracting data from election comission website 
+- Data Transformation and data cleaning 
+- Data analyzing 
+- Data modeling 
+- Dashboarding 
+
 ## 🎯Key Finding:
 - Voters Information 
 - Women Representation 
@@ -14,12 +21,6 @@ mission is to decipher the intricate brushstrokes that shape the political portr
 - Political Parties Information 
 - Comparative study of BJP N Congress 
 
-## 📋Followed Process:
-- Extracting data from election comission website 
-- Data Transformation and data cleaning 
-- Data analyzing 
-- Data modeling 
-- Dashboarding 
 
 ## ℹ️ Data Source : https://www.eci.gov.in/statistical-reports
 
