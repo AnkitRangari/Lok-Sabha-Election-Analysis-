@@ -8,7 +8,7 @@ In the ever-evolving landscape of Indian politics, understanding electoral dynam
 mission is to decipher the intricate brushstrokes that shape the political portrait. Within this dataset lie stories waiting to be told—the whispers of voters, and the quiet determination of candidates. My aim to unravel these narratives through depth analysis. 
 
 ## 📋Followed Process:
-- Extracting data from election comission website 
+- Extracting data from election commission website 
 - Data Transformation and data cleaning 
 - Data analyzing 
 - Data modeling 
