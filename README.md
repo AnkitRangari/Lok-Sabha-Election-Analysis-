@@ -10,7 +10,7 @@ mission is to decipher the intricate brushstrokes that shape the political portr
 
 ## 📋Followed Process:
 - Extracting data from election commission website 
-- Data Transformation and data cleaning 
+- Data Transformation and data cleaning in PowerBI and excel 
 - Data analyzing 
 - Data modeling 
 - Dashboarding 
