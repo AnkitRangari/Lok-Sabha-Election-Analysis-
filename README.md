@@ -1,4 +1,4 @@
-# Loksabha Election Data Analysis📊🛃
+# 2024 Loksabha Election Data Analysis📊🛃
  ![ElectionResultsLoadingElection2020GIF](https://github.com/AnkitRangari/Lok-Sabha-Election-Analysis-/assets/164244833/31a83e3f-f8f0-47fe-b77b-3b211b7a0b54)
 
 ## 🔭Objective: 
